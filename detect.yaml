@@ -1,0 +1,5 @@
+train: D:\sandhya\third_paper\datasets\train
+val: D:\sandhya\third_paper\datasets\train
+#number of classes
+nc: 1
+names: ["Sika_deer"]

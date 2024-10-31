@@ -1,0 +1,9 @@
+#Python dependencies required for the development
+RPi.GPIO
+ultralytics
+smtplib
+gps
+pydub
+ftplib
+MySQL.connector
+Adafruit_DHT
